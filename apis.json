@@ -1,0 +1,41 @@
+{
+    "name": "HealthData.gov",
+    "description": "<p>Welcome to HealthData.gov! This site is dedicated to making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all. In a recent article, Todd Park, United States Chief Technology Officer, captured the essence of what the Health Data Initiative is all about and why our efforts here are so important.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/health-data-gov.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/healthdata-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HealthData.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/health-data-gov.png",
+            "humanURL": "http:\/\/www.healthdata.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/healthdata-gov-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.healthdata.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.healthdata.gov"
+        }
+    ]
+}
